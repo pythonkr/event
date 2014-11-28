@@ -75,9 +75,20 @@ body {
 
 }
 .user-groups li{
-    width: 50%;
-    float: left;
     margin: 10px 0;
+}
+.user-groups ul{
+    margin: 10px;
+}
+.user-groups dt,
+.user-groups dd
+{
+    text-align:center;
+    margin: 15px 0;
+}
+
+.user-groups dt{
+    font-size: 1.3em;
 }
 
 .clear {
